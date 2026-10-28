@@ -7,5 +7,7 @@ Proyek end-to-end ini mencakup perancangan model data dimensional, ekstraksi dan
 ---
 # Tech Stack & Tools
 **Data Modeling & Transformation:** Power Query & Spreadsheet (Data Cleaning, Schema Setup)
+
 **Business Intelligence & Analytics:** Power BI Desktop (DAX Measures, Data Modeling, & Interactive Dashboarding)
+
 **Source Dataset:** Olist Brazilian E-Commerce Public Dataset (Kaggle)
